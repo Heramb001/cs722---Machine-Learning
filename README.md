@@ -1,5 +1,6 @@
 # cs722-Machine-Learning
 This repository contains all the assignments related to machine learning Course
+
 Course instructor - Jiangwen Sun [email](jsun@odu.edu) | [webpage](https://www.cs.odu.edu/~jsun/)
 
 ### Assignment 1 
